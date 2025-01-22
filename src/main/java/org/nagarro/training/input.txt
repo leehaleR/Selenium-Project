@@ -1,0 +1,20 @@
+Sample
+
+Navigate to this website:
+
+https://www.demoblaze.com/index.html
+
+
+Login with
+
+Username: admin
+
+Password: admin
+
+Select a Samsung galaxy s6
+
+Add to the cart
+
+Place order (enter random data in the fields)
+
+Return the purchase ID
